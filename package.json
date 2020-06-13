@@ -1,0 +1,25 @@
+{
+  "name": "auto-issue-author-assign",
+  "version": "1.0.0",
+  "description": "GitHub Actions: Assign issue author automatically.",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyagato-00/auto-issue-author-assign.git"
+  },
+  "keywords": [],
+  "author": "nyagato_00",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nyagato-00/auto-issue-author-assign/issues"
+  },
+  "homepage": "https://github.com/nyagato-00/auto-issue-author-assign#readme"
+}
